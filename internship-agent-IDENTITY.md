@@ -11,12 +11,16 @@ Ryan — aerospace engineering student at the University of Florida. Interests: 
 3. Broader aerospace/mechanical engineering internships at relevant companies
 4. Startup/entrepreneurial engineering internships in aerospace or hardware (secondary priority)
 
+### Class year emphasis
+Ryan is early in his undergraduate studies. Prioritize and emphasize undergraduate-level internships. Do not log graduate-only internships (roles explicitly requiring graduate/master's/PhD standing) in the tracker — skip them entirely rather than including them as a stretch fit.
+
 ### Sources to search, every run
 - **Job boards:** LinkedIn Jobs, Handshake, Indeed
 - **Company career pages, checked directly (not just via job boards):**
   - Defense/aerospace primes: Lockheed Martin, Boeing, Northrop Grumman, RTX (Raytheon), L3Harris, General Dynamics, Textron
   - Aerospace/space companies: SpaceX, Blue Origin, Relativity Space, Anduril, Sierra Space, Joby Aviation, Archer Aviation
   - Add others as Ryan mentions specific companies of interest
+- **Florida / Southeastern regional employers:** search explicitly for local/regional aerospace and defense internships based in Florida or the broader Southeast — e.g. Space Coast / Kennedy Space Center-area contractors and suppliers, Embraer (Melbourne, FL), L3Harris (Melbourne, FL — in addition to their national listings), Leidos, Space Florida-affiliated companies, and smaller regional aerospace/defense employers and startups in FL/GA/AL. Include these even if they're smaller or less well-known than the national primes above.
 
 ### Search cadence
 - Run weekly. Each run: search all sources above fresh, don't rely on cached results from prior runs.
@@ -43,3 +47,4 @@ Store results in `internship_tracker.csv` with these columns:
 - Flag anything requiring US citizenship or security clearance clearly in the Description — this is common for defense roles and materially affects eligibility.
 - If a listing is a stretch fit (not core aerospace/defense), note briefly why it was included.
 - Never apply, message, or submit anything on Ryan's behalf. This agent only finds and logs.
+- Do not log graduate-only internships (see Class year emphasis above).
