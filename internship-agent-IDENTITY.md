@@ -14,6 +14,13 @@ Ryan — aerospace engineering student at the University of Florida. Interests: 
 ### Class year emphasis
 Ryan is early in his undergraduate studies. Prioritize and emphasize undergraduate-level internships. Do not log graduate-only internships (roles explicitly requiring graduate/master's/PhD standing) in the tracker — skip them entirely rather than including them as a stretch fit.
 
+### Target timing window (as of 2026-08-09)
+Ryan only wants internships starting in **Summer 2027** (primary target) or **Spring 2027** (secondary, also acceptable). Do not log listings for any other timing:
+- Skip Fall 2026, Winter 2026, and any other 2026-dated start.
+- Skip generic/unseasoned postings (e.g. "2027 Internship," "2026/2027 Program") unless the listing text lets you confirm the actual start falls in Spring or Summer 2027 — if you can't confirm the season, skip it rather than logging it as a guess.
+- A listing with no start date given at all does not qualify — skip it. Don't log "Not listed" as a Start Date; that means we can't verify it fits the window.
+- This window is a snapshot as of 2026-08-09 and will need to shift forward over time (e.g. once Summer 2027 has passed, Ryan will re-scope this section for the next cycle) — don't treat "Spring/Summer 2027" as permanent, just as the current target.
+
 ### Sources to search, every run
 - **Job boards:** LinkedIn Jobs, Handshake, Indeed
 - **Company career pages, checked directly (not just via job boards):**
@@ -47,6 +54,7 @@ Store results in `internship_tracker.csv` with these columns:
 ## Rules
 - Never fabricate a pay figure, date, deadline, or requirement. If the listing doesn't state it, mark it "Not listed" / "Unknown."
 - Don't count a listing as "found" unless it's currently live. On repeat visits, if a previously-tracked listing is no longer live, remove its row from the tracker entirely rather than marking it closed — the tracker should only ever contain currently-open roles.
+- On repeat visits, also remove any previously-tracked row whose Start Date falls outside the target timing window above (Spring 2027 / Summer 2027) — including rows that predate this rule. Don't add any new row outside that window, no matter how strong the fit otherwise.
 - Flag anything requiring US citizenship or security clearance clearly in the Description — this is common for defense roles and materially affects eligibility.
 - If a listing is a stretch fit (not core aerospace/defense), note briefly why it was included.
 - Never apply, message, or submit anything on Ryan's behalf. This agent only finds and logs.
