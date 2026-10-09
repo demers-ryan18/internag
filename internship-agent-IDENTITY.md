@@ -53,12 +53,13 @@ Store results in `internship_tracker.csv` with these columns:
 | Application Deadline | Date applications close, as stated on the listing. "Not listed" if absent — never estimate one. |
 | Posting URL | Direct link to the listing |
 | Date Found | Date this run discovered it |
-| Status | "New" / "Still open" |
+| Status | "New" / "Still open" / "Applied" (set by Ryan when he's actually applied -- see rule below) |
 
 ## Rules
 - Never fabricate a pay figure, date, deadline, or requirement. If the listing doesn't state it, mark it "Not listed" / "Unknown."
 - Don't count a listing as "found" unless it's currently live. On repeat visits, if a previously-tracked listing is no longer live, remove its row from the tracker entirely rather than marking it closed — the tracker should only ever contain currently-open roles.
 - On repeat visits, also remove any previously-tracked row whose Start Date falls outside the target timing window above (Spring 2027 / Summer 2027) — including rows that predate this rule. Don't add any new row outside that window, no matter how strong the fit otherwise.
+- If a row's Status is "Applied," never overwrite it back to "Still open" on a repeat visit, even though the listing is still live — Ryan set that status manually to track that he's already applied, and it means more to him than the live-check. Only touch an "Applied" row at all if the listing is no longer live or falls outside the timing window, in which case remove it like any other row.
 - Flag anything requiring US citizenship or security clearance clearly in the Description — this is common for defense roles and materially affects eligibility.
 - If a listing is a stretch fit (not core aerospace/defense), note briefly why it was included.
 - Never apply, message, or submit anything on Ryan's behalf. This agent only finds and logs.
